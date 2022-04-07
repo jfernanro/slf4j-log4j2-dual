@@ -8,16 +8,16 @@
 
 		<RollingRandomAccessFile
 			name="LogToRollingRandomAccessFile"
-			fileName="logs/traza.${date:yyyy-MM-dd}.log"
+			fileName="logs/traza.${date:dd-MM-yyyy}.log"
 			filePattern="logs/$${date:yyyy-MM}/traza-%d{MM-dd-yyyy}-%i.gz">
 			<PatternLayout>
 				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
 			</PatternLayout>
 			<Policies>
 				<TimeBasedTriggeringPolicy />
-				<SizeBasedTriggeringPolicy size="10 MB" />
+				<SizeBasedTriggeringPolicy size="100 MB" />
 			</Policies>
-			<DefaultRolloverStrategy max="10" />
+			<DefaultRolloverStrategy max="5" />
 		</RollingRandomAccessFile>
 
 	</Appenders>
