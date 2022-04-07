@@ -23,7 +23,7 @@
 	</Appenders>
 	<Loggers>
 		<!-- avoid duplicated logs with additivity=false -->
-		<Logger name="com.dual.trazas" level="info" additivity="false">
+		<Logger name="com.dual.trazas" level="debug" additivity="false">
 			<AppenderRef ref="LogToRollingRandomAccessFile" />
 			<AppenderRef ref="LogToConsole" />
 		</Logger>

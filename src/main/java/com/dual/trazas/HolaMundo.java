@@ -44,7 +44,7 @@ public class HolaMundo
     LOGGER.trace("Hemos realizado la suma con éxito");
 
     LOGGER.trace("Vamos a entrar en un for");
-    for(int i = 0;i < 10;i++)
+    for(int i = 0;i < 1000000000;i++)
     {
       LOGGER.info("Haciendo crecer el fichero");
       LOGGER.info("Con trazas ampliadas");

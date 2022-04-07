@@ -1,22 +1,68 @@
-2022-04-07 09:51:43,858 INFO c.d.t.HolaMundo [main] Entramos en MAIN
-2022-04-07 09:51:43,861 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,862 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,867 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,868 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,869 INFO c.d.t.HolaMundo [main] Haciendo crecer el fichero
-2022-04-07 09:51:43,869 INFO c.d.t.HolaMundo [main] Con trazas ampliadas
-2022-04-07 09:51:43,869 INFO c.d.t.HolaMundo [main] Salimos de MAIN con resultado -> 11
+2022-04-07 12:17:56,886 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:17:56,890 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:17:56,896 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:17:56,897 ERROR c.d.t.Operaciones [main] Exception capturada: El formato del nombre no es valido
+2022-04-07 12:17:56,898 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:17:56,898 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:19:30,393 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:19:30,400 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@12d3a4e9
+2022-04-07 12:19:30,400 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:19:30,401 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:19:30,401 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> 
+2022-04-07 12:19:30,402 ERROR c.d.t.Operaciones [main] Exception capturada: El formato del nombre no es valido
+2022-04-07 12:19:30,402 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:19:30,403 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:20:57,679 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:20:57,685 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@12d3a4e9
+2022-04-07 12:20:57,685 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:20:57,685 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:20:57,686 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> Juan Antonio lajsdfl ñlas jdfl asñd jflñsaj sjasdlfjasdfjlasdjfñlajsdf
+2022-04-07 12:20:57,687 ERROR c.d.t.Operaciones [main] Exception capturada: El formato del nombre no es valido
+2022-04-07 12:20:57,687 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:20:57,687 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:23:09,928 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:23:09,932 DEBUG c.d.t.Main [main] El objeto arr vale -> null
+2022-04-07 12:23:09,932 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:23:09,932 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:23:09,933 ERROR c.d.t.Operaciones [main] Exception capturada: null
+2022-04-07 12:23:09,933 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:23:09,933 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:24:24,347 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:24:24,354 DEBUG c.d.t.Main [main] El objeto arr vale -> null
+2022-04-07 12:24:29,043 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:24:31,834 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:24:44,593 ERROR c.d.t.Operaciones [main] Exception capturada: null
+2022-04-07 12:24:44,973 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:24:44,974 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:26:05,434 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:26:05,441 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@a37aefe
+2022-04-07 12:26:05,442 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:26:13,451 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:26:13,875 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> Juan
+2022-04-07 12:26:37,349 ERROR c.d.t.Operaciones [main] Exception capturada: 1
+2022-04-07 12:26:37,349 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:26:37,349 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:27:32,545 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:27:32,549 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@12d3a4e9
+2022-04-07 12:27:32,549 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:27:32,549 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:27:32,549 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> Juan
+2022-04-07 12:27:32,550 ERROR c.d.t.Operaciones [main] ArrayIndexOutOfBoundsException capturada: 1
+2022-04-07 12:27:32,550 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:27:32,550 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:44:26,446 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:44:26,449 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@12d3a4e9
+2022-04-07 12:44:26,449 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:44:26,450 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:44:26,450 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> Juan
+2022-04-07 12:44:26,451 ERROR c.d.t.Operaciones [main] ArrayIndexOutOfBoundsException capturada: 1
+2022-04-07 12:44:26,451 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:44:26,452 INFO c.d.t.Main [main] Salimos en Main
+2022-04-07 12:44:30,405 INFO c.d.t.Main [main] Entramos en Main
+2022-04-07 12:44:30,408 DEBUG c.d.t.Main [main] El objeto arr vale -> [Ljava.lang.String;@12d3a4e9
+2022-04-07 12:44:30,409 INFO c.d.t.Operaciones [main] Entramos en guardarDatos()
+2022-04-07 12:44:30,409 INFO c.d.t.Operaciones [main] Entramos de validarDatos()
+2022-04-07 12:44:30,409 DEBUG c.d.t.Operaciones [main] El valor de arr[0] es -> Juan
+2022-04-07 12:44:30,410 ERROR c.d.t.Operaciones [main] ArrayIndexOutOfBoundsException capturada: 1
+2022-04-07 12:44:30,410 INFO c.d.t.Operaciones [main] Salimos de guardarDatos() -> false
+2022-04-07 12:44:30,410 INFO c.d.t.Main [main] Salimos en Main
