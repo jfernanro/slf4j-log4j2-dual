@@ -16,7 +16,7 @@ public class Main
     boolean resultado = true;
 
     arr[0] = "Juan";
-    arr[1] = "Fernandez";
+
 
     LOGGER.debug("El objeto arr vale -> " + arr);
 
